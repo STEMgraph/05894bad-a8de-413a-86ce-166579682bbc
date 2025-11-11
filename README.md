@@ -1,6 +1,7 @@
 <!---
 {
   "id": "05894bad-a8de-413a-86ce-166579682bbc",
+  "teaches": "Advanced File Download with `curl`",
   "depends_on": [
     "bae22056-8b3c-4c71-807d-68abc7171b36", 
     "8acee03e-6020-4e3b-86b7-d7747b216258", 
